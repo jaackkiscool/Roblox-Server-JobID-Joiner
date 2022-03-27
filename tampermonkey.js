@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  Join Roblox servers using JobID.
-// @author       mstudio45#5590, jaackk#6695
+// @author       mstudio45#5590, jaackk#6695, ramirez
 // @match        *://*.roblox.com/*
 // @icon         https://upload.wikimedia.org/wikipedia/commons/4/48/Roblox_Player_icon.png
 // @grant        none
