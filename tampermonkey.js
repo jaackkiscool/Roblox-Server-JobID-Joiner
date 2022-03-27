@@ -9,7 +9,6 @@
 // @grant        none
 // ==/UserScript==
 
-
 /* 
 HOW TO SETUP:
 1. Install Tampermonkey https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
