@@ -9,7 +9,7 @@
 // @grant        none
 // ==/UserScript==
 
-/* 
+/*
 HOW TO SETUP:
 1. Install Tampermonkey https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
 2. Go to this link: chrome-extension://dhdgffkkebhmkfjojejmpbldmpobfkfo/options.html#nav=new-user-script+editor
@@ -22,7 +22,7 @@ HOW TO SETUP:
 HOW TO USE: 
 1. Same stuff applies to the setup.
 2. Find a green colored button that says "Join" it is next to the search bar.
-3. Click it and it will request you a prompt for JobID. 
+3. Click it and it will request you a prompt for JobID.
 4. Enter the JobID and then press OK and it will join you to the server.
 */
 
