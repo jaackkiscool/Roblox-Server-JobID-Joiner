@@ -14,8 +14,8 @@ HOW TO SETUP:
 1. Install Tampermonkey https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
 2. Go to this link: chrome-extension://dhdgffkkebhmkfjojejmpbldmpobfkfo/options.html#nav=new-user-script+editor
 3. Copy this code and paste it to the editor
-4. Press CTRL+S
-5. If you end up in dashboard you are done.
+4. Press CTRL+S or click File and press Save.
+5. Then enable the script. If you end up in the dashboard you are done.
 */
 
 /*
