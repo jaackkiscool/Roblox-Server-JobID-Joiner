@@ -3,7 +3,7 @@
 // @namespace    https://discord.gg/unyJcrzBnV
 // @version      1.1
 // @description  Join Roblox servers using JobID.
-// @author       mstudio45#5590, jaackk#6695, ramirez
+// @author       mstudio45#5590, jaackk#6695, lifelover#0123
 // @match        *://*.roblox.com/games/*
 // @icon         https://upload.wikimedia.org/wikipedia/commons/4/48/Roblox_Player_icon.png
 // @grant        none
