@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Roblox Server JobID Joiner
 // @namespace    https://discord.gg/unyJcrzBnV
-// @version      1.0
+// @version      1.1
 // @description  Join Roblox servers using JobID.
 // @author       mstudio45#5590, jaackk#6695, ramirez
 // @match        *://*.roblox.com/games/*
@@ -11,7 +11,7 @@
 
 /*
 HOW TO SETUP:
-1. Install Tampermonkey https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
+1. Install Tampermonkey: https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
 2. Go to this link: chrome-extension://dhdgffkkebhmkfjojejmpbldmpobfkfo/options.html#nav=new-user-script+editor
 3. Copy this code and paste it to the editor
 4. Press CTRL+S or click File and press Save.
